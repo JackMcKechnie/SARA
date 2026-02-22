@@ -1,6 +1,12 @@
+
   
 
 ## SARA - A Collection of Sensitivity-Aware Relevance Assessments
+
+Play with the SARA dataset here!
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JackMcKechnie/SARA/blob/main/sara_examples.ipynb)
+
+
 
 Presented here is a collection of Sensitivity-Aware Relevance Assessments for the UC Berkely labelled subset of the Enron Email Collection. The Hearst  \[1\] labelled version of the Enron Email Collection is a subset of the CMU collection that contains 1702 emails that were annotated as part of a class project at UC Berkley. Students in the Natural Language Processing course were tasked with annotating the emails as relevant or not relevant to 53 different categories. Therefore, the labelled version of the Enron email collection provides a rich taxonomy of labels which can be used for multiple definitions of sensitivity such as the Purely Personal and Personal but in a Professional Context. The categories that the emails are labelled for can be seen in [Table 1](#table-1).  The files for the labelled version of the Enron Email Collection are available from the [UC Berkely website](https://bailando.berkeley.edu/enron_email.html). 
 
