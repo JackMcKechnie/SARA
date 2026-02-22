@@ -4,6 +4,7 @@
 ## SARA - A Collection of Sensitivity-Aware Relevance Assessments
 
 Play with the SARA dataset here!
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/JackMcKechnie/SARA/blob/main/sara_examples.ipynb)
 
 
